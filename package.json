@@ -1,0 +1,19 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "Just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nissangaudel/NewRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nissangaudel/NewRepo/issues"
+  },
+  "homepage": "https://github.com/nissangaudel/NewRepo#readme"
+}
